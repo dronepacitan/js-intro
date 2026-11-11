@@ -1,0 +1,1 @@
+console.log('Saya akan lawan! ...dari external js');
